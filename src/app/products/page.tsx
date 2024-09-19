@@ -59,7 +59,7 @@ export default function ProductsPage() {
                                 <div className="w-1/2 text-right">
                                     <h5 className="text-[#22a878] text-3xl font-bold">Safe & Easy Lung Screening with LUDESC</h5>
                                     <h6 className="text-[#1c738e] text-lg font-semibold mt-3">Improve Lung diagnostic accuracy and efficiency</h6>
-                                    <p className="text-[#2a7b95] text-[15px]">Make medical personnel feel safer in carrying out their work.</p>
+                                    <p className="text-[#2a7b95] text-[15px]">1Make medical personnel feel safer in carrying out their work.</p>
                                 </div>
                                 <div className="w-1/2 flex justify-center">
                                     <Image src="/images/apps.png" alt="Team" width={200} height={200} />
